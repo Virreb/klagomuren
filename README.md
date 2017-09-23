@@ -1,10 +1,7 @@
 # klagomuren
 
 ## Setup
-To install modules, you need the python package manager pip (sudo apt-get install pip). In this project, we have used the Python IDE Pycharm, but use on of your liking. To create the correct folder structure, run the file 'init_project.py'
-Virtual environments
-
-It is recommended to use a virtual environment to install packages in, so they don't get installed globally. There are many tools for this but the most used low-lever is called virtualenv.
+To install modules, you need the python package manager pip (sudo apt-get install pip). It is recommended to use a virtual environment to install packages in, so they don't get installed globally. There are many tools for this but the most used low-lever is called virtualenv.
 
     pip install virtualenv
 
