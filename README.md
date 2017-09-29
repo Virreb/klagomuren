@@ -26,6 +26,7 @@ In Pycharm, you can also choose the virtualenv to be the standard python interpr
 The easiest way to install the required packages is to read the requirements.txt file in the project root. Don't forget to activate your virtual environment first!
 
 > pip install -r requirements.txt
-If some package is added later on, you can simply create a new requirements.txt file
+
+If some package is added later on, you can simply create a new requirements.txt file with
 
 > pip freeze > requirements.txt
